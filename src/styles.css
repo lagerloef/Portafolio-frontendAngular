@@ -1,1 +1,28 @@
-/* You can add global styles to this file, and also import other style files */
+i{
+    color:white;
+  }
+  
+.container-logins i{
+    font-size: 7rem;
+  }
+.card_1{
+    color: white;
+    width: auto;
+    border: 1px solid rgb(211, 182, 182);
+    padding: 15px;
+  }
+
+.overlap{
+    position: relative;   
+}
+
+.overlap2{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;  
+}
+
+.lista li {
+  list-style:none ;
+}
+

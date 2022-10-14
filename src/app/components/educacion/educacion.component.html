@@ -1,0 +1,23 @@
+<div class="card_1">
+  <h3>Educación</h3>
+  <ul class="lista">
+    <li *ngFor = "let educacion of educacionList">
+      
+      <div class="row justify-content-between">
+        <div class="col-md-2">
+          <img [src]="educacion.image"  alt="logo-instituto" width="50%" >
+        </div>
+        <div class="col-md-7">
+          <h4>{{educacion.Institution}}</h4> 
+          <h5>{{educacion.title}}</h5> 
+          <p>{{educacion.start}}-{{educacion.end}}</p>
+        </div>
+
+        <div class="col-md-1">
+          <button class="btn bg-dark rounded-circle"><i class="bi bi-pencil-fill"></i></button>
+        </div>
+
+      </div>
+    </li>
+  </ul>
+  </div>

@@ -1,0 +1,158 @@
+{ 
+  "name": "Lagerloef Danae",
+  "backImage": "assets/img/verde.png",
+  "image": "assets/img/imagen_perfil.jpg",
+  "position": "Programador Full Stack Junior",
+  "ubication": "Argentina, Buenos Aires", 
+  "about": "Ingeniero Electrónico, con mas de veinte años de Experiencia en Telecomunicaciones en OAM, Soporte Técnico, Auditoria Técnica redes HFC, pruebas de servicios y ahora incursionando en la programación Full Stack",
+  "experience":[
+    { 
+      "position": "Ingeniero de Proyecto Sistemas Nacionales",
+      "company": "Corporación Telemic S.A.",
+      "ubication":"Barquisimeto, Edo Lara, Venezuela",
+      "image": "assets/img/inter-fb.jpg",
+      "mode":"Jornada completa",
+      "start": "Octubre 2016",
+      "end": " Agosto 2019",
+      "activity":[
+        {"task":"Soporte de los Sistema GxIx y GxVision, plataformas usadas por la empresa Inter, para la elaboración de reportes y facturación"},
+        {"task":"Testing de nuevas releases GxIx y GxVision."},
+        {"task":"Operación y Mantenimiento Sistema de facturación GxIx."},
+        {"task":"Análisis del performance de telefonía para Verificar&validar la QoS prestado por la operadora HFC Inter y elaboración de reportes estadísticos de consumo de Internet."}
+      ],
+      "timeElapsed": "2 años y 10 meses"
+    
+  },
+  { 
+    "position": "Auditor Técnico",
+    "company": "Corporación Telemic S.A.",
+    "ubication":"Barquisimeto, Edo Lara, Venezuela",
+    "image": "assets/img/inter-fb.jpg",
+    "mode":"Jornada completa",
+    "start": " Abril 2007",
+    "end": "Septiembre 2016",
+    "activity":[
+      {
+        "task":"Elaboración y ejecución de Pruebas de auditorias, para verificar&validar el correcto funcionamiento de los servicios y los procesos en el área técnica."
+      },
+      {
+        "task":"Testing de nuevas releases GxIx y GxVision."
+      }
+    ],
+    "timeElapsed": "9 años y 4 meses"
+  
+},
+{ 
+  "position": "Ingeniero de Conmutación",
+  "company": "Dauphin Telecom ",
+  "ubication":"Marigot, Saint Marteen",
+  "image": "assets/img/LogoDT.png",
+  "mode":"Jornada completa",
+  "start": " Septiembre 2006",
+  "end": "Marzo 2007",
+  "activity":[
+    {
+      "task":"Operación y mantenimiento de equipos de Core de la red Fija, Tecnología EWSD Siemens."
+    },
+    {
+      "task":"Respaldo de archivos de facturación y tráfico."
+    }
+  ],
+  "timeElapsed": "6 meses"
+
+},
+{ 
+  "position": "Ingeniero Asistencia Tecnica Senior",
+  "company": "Siemens",
+  "ubication":"Caracas, Dtto, Capital, Venezuela",
+  "image": "assets/img/siemens-logo-default.svg",
+  "mode":"Jornada completa",
+  "start": " Septiembre 1997",
+  "end": "Agosto 2006",
+  "activity":[
+    {
+      "task":"Soporte Técnico a CANTV y Movistar (Operadora Nacional e Internacional de Telefonía Fija) del Softswitch (SSW) EWSD."
+    },
+    {
+      "task":"Instalaciones, pruebas de aceptación, ampliaciones y actualizaciones de software y hardware del SSW EWSD.8"
+    }
+  ],
+  "timeElapsed": "8 años y 11 meses"
+
+}
+  ],
+  "education": [{
+    "Institution":"Universidad Experimental Politecnica",
+    "ubicatión": "Barquisimeto, Edo Lara,Venezuela",
+    "title":"Ingeniero Electrónico",
+    "image":"assets/img/logounexpo-e1525717681680.png",
+    "start":"1989",
+    "end": "1996"
+  },
+  {
+    "Institution":"Escuela Técnica Industrial",
+    "title":"Técnico Medio Electricista",
+    "ubicatión": "Barquisimeto, Edo Lara,Venezuela",
+    "image":"assets/img/ETI.png",
+    "start":"1984",
+    "end": "1989"
+  }],  
+  "curso": [{
+    "Institution":"Argentina Programa Mumuki",
+    "ubicatión":"Buenos Aires, CABA,argentina",
+    "title":"#SéProgramar",
+    "image":"assets/img/APLogo-20-20.png",
+    "start":"Febrero 2022",
+    "end": "Abril 2022"
+  },
+  {
+    "Institution":"Codo a Codo",
+    "title":"Testing QA de calidad de Software",
+    "ubicatión":"Buenos Aires, CABA,argentina",
+    "image":"assets/img/BA2016.png",
+    "start":"Julio 2021",
+    "end": "Diciembre 2021"
+  },
+  {
+    "Institution":"Udemy",
+    "title":"SQL -Curso Completo de Base de Datos",
+    "ubicatión":"Buenos Aires, CABA,argentina",
+    "image":"assets/img/logo-udemy.svg",
+    "start":"Octubre 2021",
+    "end": "Noviembre 2021"
+  },
+  {
+    "Institution":"Udemy",
+    "title":"Software Tester",
+    "ubicatión":"Buenos Aires, CABA,argentina",
+    "image":"assets/img/logo-udemy.svg",
+    "start":"Octubre 2021",
+    "end": "Octubre 2021"
+  },
+  {
+    "Institution":"Accenture",
+    "title":"Habilidades Blandas",
+    "ubicatión":"Buenos Aires, CABA,argentina",
+    "image":"assets/img/Accenture.jpg",
+    "start":"Octubre 2021",
+    "end": "Octubre 2021"
+  },
+  {
+    "Institution":"Coder House",
+    "title":"JavaScript",
+    "ubicatión":"Buenos Aires, CABA,argentina",
+    "image":"assets/img/coder.jpg",
+    "start":"Junio 2020",
+    "end": "Julio 2020"
+  },
+  {
+    "Institution":"Coder House",
+    "title":"Desarrollo Web",
+    "ubicatión":"Buenos Aires, CABA,argentina",
+    "image":"assets/img/coder.jpg",
+    "start":"Marzo 2020",
+    "end": "Mayo 2020"
+  }]
+}
+
+   

@@ -1,0 +1,22 @@
+<div class="card_1">
+  <h3>Cursos</h3> 
+    
+      <ul>
+        <li *ngFor = "let curso of cursosList">
+          <div class="row justify-content-between">
+          <div class="col-md-2">
+            <img [src]="curso.image"  alt="logo-argentina Programa" width="60%" >
+          </div>
+          <div class="col-md-7">
+            <h4>{{curso.Institution}}</h4> 
+            <h6>{{curso.title}}</h6> 
+            <p>{{curso.start}} - {{curso.end}}</p>          
+          </div>
+          <div class="col-md-1" >
+            <button class="btn bg-dark rounded-circle"><i class="bi bi-pencil-fill"></i></button>
+          </div>
+        </div>
+      </li>
+      </ul>
+    
+  </div>

@@ -1,0 +1,23 @@
+<div class="card_1">
+  <ul class="lista">
+    <h3>Experiencia</h3>    
+      <li *ngFor ="let experiencia of experienciaList; let i=index"> 
+      <div class="row justify-content-between">
+        <div class="col-md-2 ">
+          <img [src]="experiencia.image"  alt="logo-compañía" width="50%" >
+        </div>
+        <div class="col-md-7">
+          <h4>{{experiencia.company}}, {{experiencia.ubication}}</h4> 
+          <h5>{{experiencia.position}}</h5> 
+          <ul id="task" class="mostrar">
+            <li *ngFor ="let actividad of experiencia.activity">{{actividad.task}}</li>     
+          </ul>
+          <p>Octubre 2016- Agosto 2019</p>  
+        </div>
+        <div class="col-md-1 ">
+          <button class="btn bg-dark rounded-circle"><i class="bi bi-pencil-fill"></i></button>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
